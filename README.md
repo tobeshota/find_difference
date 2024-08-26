@@ -1,7 +1,7 @@
 # 概要
 間違い探しを解くプログラムです．  
 プログラムは2つの画像を比較し，その差異を検知（異常検知）します．
-![example](https://github.com/user-attachments/assets/535cb9fe-6169-4bf0-80a1-c59aefa4852b)
+![example](https://github.com/user-attachments/assets/1865557b-f201-47c7-a233-87c9a2bb4a59)
 
 # 応用事例
 異常検知機能は立入禁止エリアへの侵入検知機能と捉えることができます．  
@@ -70,7 +70,7 @@ python main.py rou
     3. 画像の差異を比較元画像と重ね合わせる
 </details>
 
-5. 差異を示す画像生成する
+5. 差異を示す画像を生成する
 
 # 参考文献
 - Junichi Higuchi. "pythonで２つの画像を比較してその差異を分かりやすく示すための画像を新たに生成するプログラムを作ってみた #Python", Qiita. <https://qiita.com/jun_higuche/items/e3c3263ba50ea296f7bf>. 2024年8月26日閲覧
