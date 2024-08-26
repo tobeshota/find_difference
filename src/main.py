@@ -3,11 +3,11 @@ from treat import pretreat, aftertreat
 
 # パラメータ ##########
 # 読み込む画像
-input_path_1 = '../img/input/ok_in.png'
-input_path_2 = '../img/input/ko_out.png'
+input_path_1 = '../img/ok_in.png'
+input_path_2 = '../img/ko_out.png'
 
 # 書き込む画像
-output_path = '../img/output/diff.png'
+output_path = '../img/diff.png'
 #####################
 
 
