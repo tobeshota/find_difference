@@ -1,7 +1,7 @@
 # 概要
 間違い探しを解くプログラムです．  
 プログラムは2つの画像を比較し，その差異を検知（異常検知）します．
-![example](https://github.com/user-attachments/assets/1865557b-f201-47c7-a233-87c9a2bb4a59)
+![example](https://github.com/user-attachments/assets/f45bef37-ef96-4ba2-b46d-2f19efe2ceb0)
 
 # 応用事例
 異常検知機能は立入禁止エリアへの侵入検知機能と捉えることができます．  
@@ -24,7 +24,7 @@ cd find_difference/src
 python main.py
 ```
 ### 実行(立入可能エリアを指定する場合)
-プログラムは，立入可能エリア（長方形で表される2つの画像の差異を検知しないエリア）を定めることができます．
+画像を比較する差異，差異を検知しない領域（立入可能エリア．白の長方形で示される）を設定することができます．
 1. コマンドライン引数に`rou`を指定する
 ```shell
 git clone https://github.com/tobeshota/find_difference.git
