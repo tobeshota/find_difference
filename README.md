@@ -1,8 +1,7 @@
-![example](https://github.com/user-attachments/assets/535cb9fe-6169-4bf0-80a1-c59aefa4852b)
-
 # 概要
 間違い探しを解くプログラムです．  
 プログラムは2つの画像を比較し，その差異を検知（異常検知）します．
+![example](https://github.com/user-attachments/assets/535cb9fe-6169-4bf0-80a1-c59aefa4852b)
 
 # 応用事例
 異常検知機能は立入禁止エリアへの侵入検知機能と捉えることができます．  
