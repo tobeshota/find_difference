@@ -31,7 +31,7 @@ git clone https://github.com/tobeshota/find_difference.git
 cd find_difference/src
 python main.py rou
 ```
-2. 表示されたウィンドウから指定したい立入可能エリアの左隅角，右隅角をクリックする
+2. 表示されたウィンドウから指定したい立入可能エリアの左上隅，右下隅をクリックする
 
 
 
